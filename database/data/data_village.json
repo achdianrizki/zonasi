@@ -1,1682 +1,1962 @@
 [
     {
-        "id": 1,
-        "district_id": "320440",
-        "code": "3204402005",
-        "name": "Alamendah"
+        "id": "3204052001",
+        "district_id": "320405",
+        "name": "Cileunyi Kulon",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 2,
-        "district_id": "320416",
-        "code": "3204162004",
-        "name": "Ancolmekar"
+        "id": "3204052002",
+        "district_id": "320405",
+        "name": "Cileunyi Wetan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 3,
-        "district_id": "320432",
-        "code": "3204321002",
-        "name": "Andir"
+        "id": "3204052003",
+        "district_id": "320405",
+        "name": "Cimekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 4,
-        "district_id": "320416",
-        "code": "3204162001",
-        "name": "Arjasari"
+        "id": "3204052004",
+        "district_id": "320405",
+        "name": "Cinunuk",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 5,
-        "district_id": "320429",
-        "code": "3204292012",
-        "name": "Babakan"
+        "id": "3204052005",
+        "district_id": "320405",
+        "name": "Cibiru Hilir",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 6,
-        "district_id": "320425",
-        "code": "3204252003",
-        "name": "Babakan Peuteuy"
+        "id": "3204052006",
+        "district_id": "320405",
+        "name": "Cibiru Wetan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 7,
-        "district_id": "320432",
-        "code": "3204321001",
-        "name": "Baleendah"
-    },
-    {
-        "id": 8,
-        "district_id": "320444",
-        "code": "3204442004",
-        "name": "Bandasari"
-    },
-    {
-        "id": 9,
-        "district_id": "320413",
-        "code": "3204132003",
-        "name": "Banjaran Kulon"
-    },
-    {
-        "id": 10,
-        "district_id": "320413",
-        "code": "3204132002",
-        "name": "Banjaran Wetan"
-    },
-    {
-        "id": 11,
-        "district_id": "320415",
-        "code": "3204152008",
-        "name": "Banjarsari"
-    },
-    {
-        "id": 12,
-        "district_id": "320411",
-        "code": "3204112009",
-        "name": "Banyusari"
-    },
-    {
-        "id": 14,
-        "district_id": "320416",
-        "code": "3204162005",
-        "name": "Baros"
-    },
-    {
-        "id": 15,
-        "district_id": "320416",
-        "code": "3204162003",
-        "name": "Batukarut"
-    },
-    {
-        "id": 17,
-        "district_id": "320433",
-        "code": "3204332003",
-        "name": "Biru"
-    },
-    {
-        "id": 18,
-        "district_id": "320433",
-        "code": "3204332005",
-        "name": "Bojong"
-    },
-    {
-        "id": 19,
-        "district_id": "320426",
-        "code": "3204262002",
-        "name": "Bojong"
-    },
-    {
-        "id": 20,
-        "district_id": "320434",
-        "code": "3204342005",
-        "name": "Bojongemas"
-    },
-    {
-        "id": 1,
-        "district_id": "320414",
-        "code": "3204142004",
-        "name": "Bojongkunci"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282004",
-        "name": "Bojongloa"
-    },
-    {
-        "id": 1,
-        "district_id": "320432",
-        "code": "3204322005",
-        "name": "Bojongmalaka"
-    },
-    {
-        "id": 1,
-        "district_id": "320414",
-        "code": "3204142002",
-        "name": "Bojongmanggu"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282003",
-        "name": "Bojongsalam"
-    },
-    {
-        "id": 1,
-        "district_id": "320408",
-        "code": "3204082005",
-        "name": "Bojongsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320408",
-        "code": "3204082002",
-        "name": "Bojongsoang"
-    },
-    {
-        "id": 1,
-        "district_id": "320408",
-        "code": "3204082003",
-        "name": "Buahbatu"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292013",
-        "name": "Bumiwangi"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462009",
-        "name": "Buninagara"
-    },
-    {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172004",
-        "name": "Campakamulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302003",
-        "name": "Cananggela (Cinanggela)"
-    },
-    {
-        "id": 1,
-        "district_id": "320444",
-        "code": "3204442001",
-        "name": "Cangkuang"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282007",
-        "name": "Cangkuang"
-    },
-    {
-        "id": 1,
-        "district_id": "320412",
-        "code": "3204122004",
-        "name": "Cangkuang Kulon"
-    },
-    {
-        "id": 1,
-        "district_id": "320412",
-        "code": "3204122003",
-        "name": "Cangkuang Wetan"
-    },
-    {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132005",
-        "name": "Ciapus"
-    },
-    {
-        "id": 1,
-        "district_id": "320426",
-        "code": "3204262003",
-        "name": "Ciaro"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362011",
-        "name": "Cibeet"
-    },
-    {
-        "id": 1,
+        "id": "3204061001",
         "district_id": "320406",
-        "code": "3204061002",
-        "name": "Cibeunying"
+        "name": "Padasuka",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312002",
-        "name": "Cibeureum"
-    },
-    {
-        "id": 1,
-        "district_id": "320405",
-        "code": "3204052005",
-        "name": "Cibiru Hilir"
-    },
-    {
-        "id": 1,
-        "district_id": "320405",
-        "code": "3204052006",
-        "name": "Cibiru Wetan"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462005",
-        "name": "Cibodas"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382002",
-        "name": "Cibodas"
-    },
-    {
-        "id": 1,
-        "district_id": "320434",
-        "code": "3204342003",
-        "name": "Cibodas"
-    },
-    {
-        "id": 1,
+        "id": "3204061002",
         "district_id": "320406",
-        "code": "3204062006",
-        "name": "Ciburial"
+        "name": "Cibeunying",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252001",
-        "name": "Cicalengka Kulon"
-    },
-    {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252002",
-        "name": "Cicalengka Wetan"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352001",
-        "name": "Cigentur"
-    },
-    {
-        "id": 1,
-        "district_id": "320410",
-        "code": "3204102006",
-        "name": "Cigondewah Hilir"
-    },
-    {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272004",
-        "name": "Cihanyir"
-    },
-    {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312006",
-        "name": "Cihawuk"
-    },
-    {
-        "id": 1,
-        "district_id": "320426",
-        "code": "3204262004",
-        "name": "Ciherang"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292005",
-        "name": "Ciheulang"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352004",
-        "name": "Cijagra"
-    },
-    {
-        "id": 1,
+        "id": "3204062003",
         "district_id": "320406",
-        "code": "3204062005",
-        "name": "Cikadut"
+        "name": "Cimenyan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172008",
-        "name": "Cikalong"
+        "id": "3204062004",
+        "district_id": "320406",
+        "name": "Mandalamekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272002",
-        "name": "Cikancung"
+        "id": "3204062005",
+        "district_id": "320406",
+        "name": "Cikadut",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272003",
-        "name": "Cikasungka"
+        "id": "3204062006",
+        "district_id": "320406",
+        "name": "Ciburial",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302007",
-        "name": "Cikawao"
+        "id": "3204062007",
+        "district_id": "320406",
+        "name": "Sindanglaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312007",
-        "name": "Cikembang"
+        "id": "3204062008",
+        "district_id": "320406",
+        "name": "Mekarsaluyu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302002",
-        "name": "Cikitu"
+        "id": "3204062009",
+        "district_id": "320406",
+        "name": "Mekarmanik",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292004",
-        "name": "Cikoneng"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382003",
-        "name": "Cikoneng"
-    },
-    {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252004",
-        "name": "Cikuya"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462011",
-        "name": "Cilame"
-    },
-    {
-        "id": 1,
-        "district_id": "320411",
-        "code": "3204112007",
-        "name": "Cilampeni"
-    },
-    {
-        "id": 1,
+        "id": "3204072001",
         "district_id": "320407",
-        "code": "3204072002",
-        "name": "Cilengkrang"
+        "name": "Jatiendah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320405",
-        "code": "3204052001",
-        "name": "Cileunyi Kulon"
+        "id": "3204072002",
+        "district_id": "320407",
+        "name": "Cilengkrang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320405",
-        "code": "3204052002",
-        "name": "Cileunyi Wetan"
+        "id": "3204072003",
+        "district_id": "320407",
+        "name": "Cipanjalu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272005",
-        "name": "Ciluluk"
+        "id": "3204072004",
+        "district_id": "320407",
+        "name": "Melatiwangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320444",
-        "code": "3204442002",
-        "name": "Ciluncat"
+        "id": "3204072005",
+        "district_id": "320407",
+        "name": "Ciporeat",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172001",
-        "name": "Cimaung"
+        "id": "3204072006",
+        "district_id": "320407",
+        "name": "Girimekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320405",
-        "code": "3204052003",
-        "name": "Cimekar"
-    },
-    {
-        "id": 1,
-        "district_id": "320406",
-        "code": "3204062003",
-        "name": "Cimenyan"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372019",
-        "name": "Cingcin"
-    },
-    {
-        "id": 1,
-        "district_id": "320405",
-        "code": "3204052004",
-        "name": "Cinunuk"
-    },
-    {
-        "id": 1,
+        "id": "3204082001",
         "district_id": "320408",
-        "code": "3204082004",
-        "name": "Cipagalo"
+        "name": "Lengkong",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352005",
-        "name": "Cipaku"
-    },
-    {
-        "id": 1,
-        "district_id": "320407",
-        "code": "3204072003",
-        "name": "Cipanjalu"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292001",
-        "name": "Ciparay"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352002",
-        "name": "Cipedes"
-    },
-    {
-        "id": 1,
-        "district_id": "320440",
-        "code": "3204402004",
-        "name": "Cipelah"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302001",
-        "name": "Cipeujeuh"
-    },
-    {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172005",
-        "name": "Cipinang"
-    },
-    {
-        "id": 1,
-        "district_id": "320407",
-        "code": "3204072005",
-        "name": "Ciporeat"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382005",
-        "name": "Cisondari"
-    },
-    {
-        "id": 1,
-        "district_id": "320426",
-        "code": "3204262005",
-        "name": "Citaman"
-    },
-    {
-        "id": 1,
-        "district_id": "320412",
-        "code": "3204122006",
-        "name": "Citeureup"
-    },
-    {
-        "id": 1,
-        "district_id": "320439",
-        "code": "3204392002",
-        "name": "Ciwidey"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382004",
-        "name": "Cukanggenteng"
-    },
-    {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252005",
-        "name": "Dampit"
-    },
-    {
-        "id": 1,
-        "district_id": "320412",
-        "code": "3204122002",
-        "name": "Dayeuhkolot"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352007",
-        "name": "Drawati"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362003",
-        "name": "Dukuh"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462010",
-        "name": "Gajah Mekar (Gajahmekar)"
-    },
-    {
-        "id": 1,
-        "district_id": "320411",
-        "code": "3204112004",
-        "name": "Gandasari"
-    },
-    {
-        "id": 1,
-        "district_id": "320426",
-        "code": "3204262008",
-        "name": "Ganjar Sabar"
-    },
-    {
-        "id": 1,
-        "district_id": "320407",
-        "code": "3204072006",
-        "name": "Girimekar"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302011",
-        "name": "Girimulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292002",
-        "name": "Gunungleutik"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282008",
-        "name": "Haurpugur"
-    },
-    {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272006",
-        "name": "Hegarmanah"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362001",
-        "name": "Ibun"
-    },
-    {
-        "id": 1,
-        "district_id": "320440",
-        "code": "3204402003",
-        "name": "Indragiri"
-    },
-    {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172002",
-        "name": "Jagabaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320407",
-        "code": "3204072001",
-        "name": "Jatiendah"
-    },
-    {
-        "id": 1,
-        "district_id": "320444",
-        "code": "3204442006",
-        "name": "Jatisari"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462002",
-        "name": "Jatisari"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462001",
-        "name": "Jelegong"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282005",
-        "name": "Jelegong"
-    },
-    {
-        "id": 1,
-        "district_id": "320432",
-        "code": "3204321004",
-        "name": "Jelekong"
-    },
-    {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132001",
-        "name": "Kamasan"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372017",
-        "name": "Karamatmulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352010",
-        "name": "Karangtunggal"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362012",
-        "name": "Karyalaksana"
-    },
-    {
-        "id": 1,
-        "district_id": "320411",
-        "code": "3204112002",
-        "name": "Katapang"
-    },
-    {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132007",
-        "name": "Kiangroke"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462004",
-        "name": "Kopo"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462006",
-        "name": "Kutawaringin"
-    },
-    {
-        "id": 1,
-        "district_id": "320410",
-        "code": "3204102002",
-        "name": "Lagadar"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362002",
-        "name": "Laksana"
-    },
-    {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152005",
-        "name": "Lamajang"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362006",
-        "name": "Lampegan"
-    },
-    {
-        "id": 1,
-        "district_id": "320434",
-        "code": "3204342007",
-        "name": "Langensari"
-    },
-    {
-        "id": 1,
-        "district_id": "320414",
-        "code": "3204142006",
-        "name": "Langonsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320439",
-        "code": "3204392001",
-        "name": "Lebakmuncang"
-    },
-    {
-        "id": 1,
-        "district_id": "320416",
-        "code": "3204162002",
-        "name": "Lebakwangi"
-    },
-    {
-        "id": 1,
+        "id": "3204082002",
         "district_id": "320408",
-        "code": "3204082001",
-        "name": "Lengkong"
+        "name": "Bojongsoang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282006",
-        "name": "Linggar"
+        "id": "3204082003",
+        "district_id": "320408",
+        "name": "Buahbatu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352003",
-        "name": "Loa"
+        "id": "3204082004",
+        "district_id": "320408",
+        "name": "Cipagalo",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
+        "id": "3204082005",
+        "district_id": "320408",
+        "name": "Bojongsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204082006",
+        "district_id": "320408",
+        "name": "Tegalluar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204091004",
         "district_id": "320409",
-        "code": "3204092002",
-        "name": "Magahayu Selatan (Margahayu Selatan)"
+        "name": "Sulaiman (Sulaeman)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332007",
-        "name": "Majakerta"
-    },
-    {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332001",
-        "name": "Majalaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332006",
-        "name": "Majasetra"
-    },
-    {
-        "id": 1,
-        "district_id": "320432",
-        "code": "3204322007",
-        "name": "Malakasari"
-    },
-    {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172009",
-        "name": "Malasari"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302010",
-        "name": "Mandalahaji"
-    },
-    {
-        "id": 1,
-        "district_id": "320406",
-        "code": "3204062004",
-        "name": "Mandalamekar"
-    },
-    {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272001",
-        "name": "Mandalasari"
-    },
-    {
-        "id": 1,
-        "district_id": "320426",
-        "code": "3204262006",
-        "name": "Mandalawangi"
-    },
-    {
-        "id": 1,
-        "district_id": "320432",
-        "code": "3204321003",
-        "name": "Manggahang"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292008",
-        "name": "Mangunharja (Manggungharja)"
-    },
-    {
-        "id": 1,
-        "district_id": "320416",
-        "code": "3204162006",
-        "name": "Mangunjaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252006",
-        "name": "Margaasih"
-    },
-    {
-        "id": 1,
-        "district_id": "320410",
-        "code": "3204102001",
-        "name": "Margaasih"
-    },
-    {
-        "id": 1,
+        "id": "3204092001",
         "district_id": "320409",
-        "code": "3204092001",
-        "name": "Margahayu Tengah"
+        "name": "Margahayu Tengah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132013",
-        "name": "Margahurip"
+        "id": "3204092002",
+        "district_id": "320409",
+        "name": "Magahayu Selatan (Margahayu Selatan)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152002",
-        "name": "Margaluyu"
+        "id": "3204092003",
+        "district_id": "320409",
+        "name": "Sukamenak",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152013",
-        "name": "Margamekar"
+        "id": "3204092005",
+        "district_id": "320409",
+        "name": "Sayati",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152006",
-        "name": "Margamukti"
-    },
-    {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152007",
-        "name": "Margamulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382006",
-        "name": "Margamulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302004",
-        "name": "Maruyung"
-    },
-    {
-        "id": 1,
-        "district_id": "320416",
-        "code": "3204162007",
-        "name": "Mekarjaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132012",
-        "name": "Mekarjaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302008",
-        "name": "Mekarjaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272007",
-        "name": "Mekarlaksana"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292014",
-        "name": "Mekarlaksana (Mekar Laksana)"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382008",
-        "name": "Mekarmaju"
-    },
-    {
-        "id": 1,
-        "district_id": "320406",
-        "code": "3204062009",
-        "name": "Mekarmanik"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352011",
-        "name": "Mekarpawitan"
-    },
-    {
-        "id": 1,
+        "id": "3204102001",
         "district_id": "320410",
-        "code": "3204102004",
-        "name": "Mekarrahayu (Mekar Rahayu)"
+        "name": "Margaasih",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320406",
-        "code": "3204062008",
-        "name": "Mekarsaluyu"
-    },
-    {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172006",
-        "name": "Mekarsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292003",
-        "name": "Mekarsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302013",
-        "name": "Mekarsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382007",
-        "name": "Mekarsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362008",
-        "name": "Mekarwangi"
-    },
-    {
-        "id": 1,
-        "district_id": "320407",
-        "code": "3204072004",
-        "name": "Melatiwangi"
-    },
-    {
-        "id": 1,
-        "district_id": "320444",
-        "code": "3204442003",
-        "name": "Nagrak"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302006",
-        "name": "Nagrak"
-    },
-    {
-        "id": 1,
-        "district_id": "320426",
-        "code": "3204262001",
-        "name": "Nagreg"
-    },
-    {
-        "id": 1,
-        "district_id": "320426",
-        "code": "3204262007",
-        "name": "Nagreg Kendan"
-    },
-    {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252012",
-        "name": "Nagrog"
-    },
-    {
-        "id": 1,
+        "id": "3204102002",
         "district_id": "320410",
-        "code": "3204102003",
-        "name": "Nanjung"
+        "name": "Lagadar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282013",
-        "name": "Nanjung Mekar (Nanjungmekar)"
+        "id": "3204102003",
+        "district_id": "320410",
+        "name": "Nanjung",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252007",
-        "name": "Narawita"
+        "id": "3204102004",
+        "district_id": "320410",
+        "name": "Mekarrahayu (Mekar Rahayu)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132016",
-        "name": "Neglasari"
+        "id": "3204102005",
+        "district_id": "320410",
+        "name": "Rahayu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362007",
-        "name": "Neglasari"
+        "id": "3204102006",
+        "district_id": "320410",
+        "name": "Cigondewah Hilir",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332010",
-        "name": "Neglasari"
-    },
-    {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312005",
-        "name": "Neglawangi"
-    },
-    {
-        "id": 1,
-        "district_id": "320439",
-        "code": "3204392003",
-        "name": "Nengkelan"
-    },
-    {
-        "id": 1,
-        "district_id": "320434",
-        "code": "3204342006",
-        "name": "Padamukti"
-    },
-    {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332004",
-        "name": "Padamulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320406",
-        "code": "3204061001",
-        "name": "Padasuka"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462008",
-        "name": "Padasuka"
-    },
-    {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332009",
-        "name": "Padaulun"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292006",
-        "name": "Pakutandang"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372011",
-        "name": "Pamekaran"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462003",
-        "name": "Pameuntasan"
-    },
-    {
-        "id": 1,
-        "district_id": "320444",
-        "code": "3204442005",
-        "name": "Pananjung"
-    },
-    {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252008",
-        "name": "Panenjoan"
-    },
-    {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152001",
-        "name": "Pangalengan"
-    },
-    {
-        "id": 1,
+        "id": "3204112001",
         "district_id": "320411",
-        "code": "3204112008",
-        "name": "Pangauban"
+        "name": "Sangkanhurip",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302009",
-        "name": "Pangauban"
+        "id": "3204112002",
+        "district_id": "320411",
+        "name": "Katapang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362005",
-        "name": "Pangguh"
+        "id": "3204112004",
+        "district_id": "320411",
+        "name": "Gandasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320439",
-        "code": "3204392004",
-        "name": "Panundaan"
+        "id": "3204112006",
+        "district_id": "320411",
+        "name": "Sukamukti",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320434",
-        "code": "3204342004",
-        "name": "Panyadap"
+        "id": "3204112007",
+        "district_id": "320411",
+        "name": "Cilampeni",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372004",
-        "name": "Panyirapan"
+        "id": "3204112008",
+        "district_id": "320411",
+        "name": "Pangauban",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320439",
-        "code": "3204392005",
-        "name": "Panyocokan"
+        "id": "3204112009",
+        "district_id": "320411",
+        "name": "Banyusari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372020",
-        "name": "Parungserab"
-    },
-    {
-        "id": 1,
+        "id": "3204121001",
         "district_id": "320412",
-        "code": "3204121001",
-        "name": "Pasawahan"
+        "name": "Pasawahan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172003",
-        "name": "Pasirhuni"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382001",
-        "name": "Pasirjambu"
-    },
-    {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132018",
-        "name": "Pasirmulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320440",
-        "code": "3204402001",
-        "name": "Patengan"
-    },
-    {
-        "id": 1,
-        "district_id": "320416",
-        "code": "3204162009",
-        "name": "Patrolsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320416",
-        "code": "3204162008",
-        "name": "Pinggirsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152011",
-        "name": "Pulosari"
-    },
-    {
-        "id": 1,
-        "district_id": "320410",
-        "code": "3204102005",
-        "name": "Rahayu"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204281014",
-        "name": "Rancaekek Kencana"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282002",
-        "name": "Rancaekek Kulon"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282001",
-        "name": "Rancaekek Wetan"
-    },
-    {
-        "id": 1,
-        "district_id": "320434",
-        "code": "3204342001",
-        "name": "Rancakasumba"
-    },
-    {
-        "id": 1,
-        "district_id": "320416",
-        "code": "3204162010",
-        "name": "Rancakole"
-    },
-    {
-        "id": 1,
-        "district_id": "320432",
-        "code": "3204322006",
-        "name": "Rancamanyar"
-    },
-    {
-        "id": 1,
-        "district_id": "320414",
-        "code": "3204142005",
-        "name": "Rancamulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320414",
-        "code": "3204142003",
-        "name": "Rancatungku"
-    },
-    {
-        "id": 1,
-        "district_id": "320439",
-        "code": "3204392006",
-        "name": "Rawabogo"
-    },
-    {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312008",
-        "name": "Resmi Tingal"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372002",
-        "name": "Sadu"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292009",
-        "name": "Sagaracipta (Sigaracipta)"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282012",
-        "name": "Sangiang"
-    },
-    {
-        "id": 1,
-        "district_id": "320411",
-        "code": "3204112001",
-        "name": "Sangkanhurip"
-    },
-    {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312003",
-        "name": "Santosa"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292010",
-        "name": "Sarimahi"
-    },
-    {
-        "id": 1,
-        "district_id": "320409",
-        "code": "3204092005",
-        "name": "Sayati"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372021",
-        "name": "Sekarwangi"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292011",
-        "name": "Serangmekar"
-    },
-    {
-        "id": 1,
-        "district_id": "320406",
-        "code": "3204062007",
-        "name": "Sindanglaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320413",
-        "code": "3204132006",
-        "name": "Sindangpanon"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352006",
-        "name": "Sindangsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320434",
-        "code": "3204342002",
-        "name": "Solokanjeruk (Solokan Jeruk)"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372001",
-        "name": "Soreang"
-    },
-    {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272009",
-        "name": "Srirahayu"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362009",
-        "name": "Sudi"
-    },
-    {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382009",
-        "name": "Sugihmukti"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372010",
-        "name": "Sukajadi"
-    },
-    {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152009",
-        "name": "Sukaluyu"
-    },
-    {
-        "id": 1,
-        "district_id": "320417",
-        "code": "3204172007",
-        "name": "Sukamaju"
-    },
-    {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332008",
-        "name": "Sukamaju"
-    },
-    {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152004",
-        "name": "Sukamanah"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352008",
-        "name": "Sukamanah"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282009",
-        "name": "Sukamanah"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352009",
-        "name": "Sukamantri"
-    },
-    {
-        "id": 1,
-        "district_id": "320409",
-        "code": "3204092003",
-        "name": "Sukamenak"
-    },
-    {
-        "id": 1,
-        "district_id": "320411",
-        "code": "3204112006",
-        "name": "Sukamukti"
-    },
-    {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332011",
-        "name": "Sukamukti"
-    },
-    {
-        "id": 1,
-        "district_id": "320446",
-        "code": "3204462007",
-        "name": "Sukamulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282010",
-        "name": "Sukamulya"
-    },
-    {
-        "id": 1,
-        "district_id": "320437",
-        "code": "3204372018",
-        "name": "Sukanagara"
-    },
-    {
-        "id": 1,
+        "id": "3204122002",
         "district_id": "320412",
-        "code": "3204122005",
-        "name": "Sukapura"
+        "name": "Dayeuhkolot",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312001",
-        "name": "Sukapura"
+        "id": "3204122003",
+        "district_id": "320412",
+        "name": "Cangkuang Wetan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302005",
-        "name": "Sukarame"
+        "id": "3204122004",
+        "district_id": "320412",
+        "name": "Cangkuang Kulon",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320440",
-        "code": "3204402002",
-        "name": "Sukaresmi"
+        "id": "3204122005",
+        "district_id": "320412",
+        "name": "Sukapura",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320414",
-        "code": "3204142001",
-        "name": "Sukasari"
+        "id": "3204122006",
+        "district_id": "320412",
+        "name": "Citeureup",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320439",
-        "code": "3204392007",
-        "name": "Sukawening"
-    },
-    {
-        "id": 1,
-        "district_id": "320409",
-        "code": "3204091004",
-        "name": "Sulaiman (Sulaeman)"
-    },
-    {
-        "id": 1,
-        "district_id": "320429",
-        "code": "3204292007",
-        "name": "Sumbersari"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362004",
-        "name": "Talun"
-    },
-    {
-        "id": 1,
-        "district_id": "320435",
-        "code": "3204352012",
-        "name": "Tangsimekar"
-    },
-    {
-        "id": 1,
-        "district_id": "320436",
-        "code": "3204362010",
-        "name": "Tangulun (Tanggulun)"
-    },
-    {
-        "id": 1,
-        "district_id": "320427",
-        "code": "3204272008",
-        "name": "Tanjunglaya"
-    },
-    {
-        "id": 1,
-        "district_id": "320444",
-        "code": "3204442007",
-        "name": "Tanjungsari"
-    },
-    {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252009",
-        "name": "Tanjungwangi"
-    },
-    {
-        "id": 1,
-        "district_id": "320430",
-        "code": "3204302012",
-        "name": "Tanjungwangi"
-    },
-    {
-        "id": 1,
+        "id": "3204132001",
         "district_id": "320413",
-        "code": "3204132008",
-        "name": "Tarajusari"
+        "name": "Kamasan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320431",
-        "code": "3204312004",
-        "name": "Tarumajaya"
+        "id": "3204132002",
+        "district_id": "320413",
+        "name": "Banjaran Wetan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320428",
-        "code": "3204282011",
-        "name": "Tegal Sumedang"
+        "id": "3204132003",
+        "district_id": "320413",
+        "name": "Banjaran Kulon",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320408",
-        "code": "3204082006",
-        "name": "Tegalluar"
+        "id": "3204132005",
+        "district_id": "320413",
+        "name": "Ciapus",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252010",
-        "name": "Tenjolaya"
+        "id": "3204132006",
+        "district_id": "320413",
+        "name": "Sindangpanon",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320438",
-        "code": "3204382010",
-        "name": "Tenjolaya"
+        "id": "3204132007",
+        "district_id": "320413",
+        "name": "Kiangroke",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
+        "id": "3204132008",
+        "district_id": "320413",
+        "name": "Tarajusari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204132012",
+        "district_id": "320413",
+        "name": "Mekarjaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204132013",
+        "district_id": "320413",
+        "name": "Margahurip",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204132016",
+        "district_id": "320413",
+        "name": "Neglasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204132018",
+        "district_id": "320413",
+        "name": "Pasirmulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204142001",
+        "district_id": "320414",
+        "name": "Sukasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204142002",
+        "district_id": "320414",
+        "name": "Bojongmanggu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204142003",
+        "district_id": "320414",
+        "name": "Rancatungku",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204142004",
+        "district_id": "320414",
+        "name": "Bojongkunci",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204142005",
+        "district_id": "320414",
+        "name": "Rancamulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204142006",
+        "district_id": "320414",
+        "name": "Langonsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152001",
         "district_id": "320415",
-        "code": "3204152010",
-        "name": "Tribaktimulya"
+        "name": "Pangalengan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320425",
-        "code": "3204252011",
-        "name": "Waluya"
-    },
-    {
-        "id": 1,
+        "id": "3204152002",
         "district_id": "320415",
-        "code": "3204152012",
-        "name": "Wanasuka"
+        "name": "Margaluyu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320433",
-        "code": "3204332002",
-        "name": "Wangisagara"
+        "id": "3204152003",
+        "district_id": "320415",
+        "name": "Warnasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
+        "id": "3204152004",
+        "district_id": "320415",
+        "name": "Sukamanah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152005",
+        "district_id": "320415",
+        "name": "Lamajang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152006",
+        "district_id": "320415",
+        "name": "Margamukti",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152007",
+        "district_id": "320415",
+        "name": "Margamulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152008",
+        "district_id": "320415",
+        "name": "Banjarsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152009",
+        "district_id": "320415",
+        "name": "Sukaluyu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152010",
+        "district_id": "320415",
+        "name": "Tribaktimulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152011",
+        "district_id": "320415",
+        "name": "Pulosari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152012",
+        "district_id": "320415",
+        "name": "Wanasuka",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204152013",
+        "district_id": "320415",
+        "name": "Margamekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162001",
         "district_id": "320416",
-        "code": "3204162011",
-        "name": "Wargaluyu"
+        "name": "Arjasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320432",
-        "code": "3204321008",
-        "name": "Wargamekar"
+        "id": "3204162002",
+        "district_id": "320416",
+        "name": "Lebakwangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
+        "id": "3204162003",
+        "district_id": "320416",
+        "name": "Batukarut",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162004",
+        "district_id": "320416",
+        "name": "Ancolmekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162005",
+        "district_id": "320416",
+        "name": "Baros",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162006",
+        "district_id": "320416",
+        "name": "Mangunjaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162007",
+        "district_id": "320416",
+        "name": "Mekarjaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162008",
+        "district_id": "320416",
+        "name": "Pinggirsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162009",
+        "district_id": "320416",
+        "name": "Patrolsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162010",
+        "district_id": "320416",
+        "name": "Rancakole",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204162011",
+        "district_id": "320416",
+        "name": "Wargaluyu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172001",
         "district_id": "320417",
-        "code": "3204172010",
-        "name": "Warjabakti"
+        "name": "Cimaung",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     },
     {
-        "id": 1,
-        "district_id": "320415",
-        "code": "3204152003",
-        "name": "Warnasari"
+        "id": "3204172002",
+        "district_id": "320417",
+        "name": "Jagabaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172003",
+        "district_id": "320417",
+        "name": "Pasirhuni",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172004",
+        "district_id": "320417",
+        "name": "Campakamulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172005",
+        "district_id": "320417",
+        "name": "Cipinang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172006",
+        "district_id": "320417",
+        "name": "Mekarsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172007",
+        "district_id": "320417",
+        "name": "Sukamaju",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172008",
+        "district_id": "320417",
+        "name": "Cikalong",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172009",
+        "district_id": "320417",
+        "name": "Malasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204172010",
+        "district_id": "320417",
+        "name": "Warjabakti",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252001",
+        "district_id": "320425",
+        "name": "Cicalengka Kulon",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252002",
+        "district_id": "320425",
+        "name": "Cicalengka Wetan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252003",
+        "district_id": "320425",
+        "name": "Babakan Peuteuy",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252004",
+        "district_id": "320425",
+        "name": "Cikuya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252005",
+        "district_id": "320425",
+        "name": "Dampit",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252006",
+        "district_id": "320425",
+        "name": "Margaasih",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252007",
+        "district_id": "320425",
+        "name": "Narawita",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252008",
+        "district_id": "320425",
+        "name": "Panenjoan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252009",
+        "district_id": "320425",
+        "name": "Tanjungwangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252010",
+        "district_id": "320425",
+        "name": "Tenjolaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252011",
+        "district_id": "320425",
+        "name": "Waluya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204252012",
+        "district_id": "320425",
+        "name": "Nagrog",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262001",
+        "district_id": "320426",
+        "name": "Nagreg",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262002",
+        "district_id": "320426",
+        "name": "Bojong",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262003",
+        "district_id": "320426",
+        "name": "Ciaro",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262004",
+        "district_id": "320426",
+        "name": "Ciherang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262005",
+        "district_id": "320426",
+        "name": "Citaman",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262006",
+        "district_id": "320426",
+        "name": "Mandalawangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262007",
+        "district_id": "320426",
+        "name": "Nagreg Kendan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204262008",
+        "district_id": "320426",
+        "name": "Ganjar Sabar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272001",
+        "district_id": "320427",
+        "name": "Mandalasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272002",
+        "district_id": "320427",
+        "name": "Cikancung",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272003",
+        "district_id": "320427",
+        "name": "Cikasungka",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272004",
+        "district_id": "320427",
+        "name": "Cihanyir",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272005",
+        "district_id": "320427",
+        "name": "Ciluluk",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272006",
+        "district_id": "320427",
+        "name": "Hegarmanah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272007",
+        "district_id": "320427",
+        "name": "Mekarlaksana",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272008",
+        "district_id": "320427",
+        "name": "Tanjunglaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204272009",
+        "district_id": "320427",
+        "name": "Srirahayu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204281014",
+        "district_id": "320428",
+        "name": "Rancaekek Kencana",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282001",
+        "district_id": "320428",
+        "name": "Rancaekek Wetan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282002",
+        "district_id": "320428",
+        "name": "Rancaekek Kulon",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282003",
+        "district_id": "320428",
+        "name": "Bojongsalam",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282004",
+        "district_id": "320428",
+        "name": "Bojongloa",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282005",
+        "district_id": "320428",
+        "name": "Jelegong",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282006",
+        "district_id": "320428",
+        "name": "Linggar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282007",
+        "district_id": "320428",
+        "name": "Cangkuang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282008",
+        "district_id": "320428",
+        "name": "Haurpugur",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282009",
+        "district_id": "320428",
+        "name": "Sukamanah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282010",
+        "district_id": "320428",
+        "name": "Sukamulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282011",
+        "district_id": "320428",
+        "name": "Tegal Sumedang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282012",
+        "district_id": "320428",
+        "name": "Sangiang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204282013",
+        "district_id": "320428",
+        "name": "Nanjung Mekar (Nanjungmekar)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292001",
+        "district_id": "320429",
+        "name": "Ciparay",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292002",
+        "district_id": "320429",
+        "name": "Gunungleutik",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292003",
+        "district_id": "320429",
+        "name": "Mekarsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292004",
+        "district_id": "320429",
+        "name": "Cikoneng",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292005",
+        "district_id": "320429",
+        "name": "Ciheulang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292006",
+        "district_id": "320429",
+        "name": "Pakutandang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292007",
+        "district_id": "320429",
+        "name": "Sumbersari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292008",
+        "district_id": "320429",
+        "name": "Mangunharja (Manggungharja)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292009",
+        "district_id": "320429",
+        "name": "Sagaracipta (Sigaracipta)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292010",
+        "district_id": "320429",
+        "name": "Sarimahi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292011",
+        "district_id": "320429",
+        "name": "Serangmekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292012",
+        "district_id": "320429",
+        "name": "Babakan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292013",
+        "district_id": "320429",
+        "name": "Bumiwangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204292014",
+        "district_id": "320429",
+        "name": "Mekarlaksana (Mekar Laksana)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302001",
+        "district_id": "320430",
+        "name": "Cipeujeuh",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302002",
+        "district_id": "320430",
+        "name": "Cikitu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302003",
+        "district_id": "320430",
+        "name": "Cananggela (Cinanggela)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302004",
+        "district_id": "320430",
+        "name": "Maruyung",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302005",
+        "district_id": "320430",
+        "name": "Sukarame",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302006",
+        "district_id": "320430",
+        "name": "Nagrak",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302007",
+        "district_id": "320430",
+        "name": "Cikawao",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302008",
+        "district_id": "320430",
+        "name": "Mekarjaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302009",
+        "district_id": "320430",
+        "name": "Pangauban",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302010",
+        "district_id": "320430",
+        "name": "Mandalahaji",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302011",
+        "district_id": "320430",
+        "name": "Girimulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302012",
+        "district_id": "320430",
+        "name": "Tanjungwangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204302013",
+        "district_id": "320430",
+        "name": "Mekarsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312001",
+        "district_id": "320431",
+        "name": "Sukapura",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312002",
+        "district_id": "320431",
+        "name": "Cibeureum",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312003",
+        "district_id": "320431",
+        "name": "Santosa",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312004",
+        "district_id": "320431",
+        "name": "Tarumajaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312005",
+        "district_id": "320431",
+        "name": "Neglawangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312006",
+        "district_id": "320431",
+        "name": "Cihawuk",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312007",
+        "district_id": "320431",
+        "name": "Cikembang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204312008",
+        "district_id": "320431",
+        "name": "Resmi Tingal",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204321001",
+        "district_id": "320432",
+        "name": "Baleendah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204321002",
+        "district_id": "320432",
+        "name": "Andir",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204321003",
+        "district_id": "320432",
+        "name": "Manggahang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204321004",
+        "district_id": "320432",
+        "name": "Jelekong",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204321008",
+        "district_id": "320432",
+        "name": "Wargamekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204322005",
+        "district_id": "320432",
+        "name": "Bojongmalaka",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204322006",
+        "district_id": "320432",
+        "name": "Rancamanyar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204322007",
+        "district_id": "320432",
+        "name": "Malakasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332001",
+        "district_id": "320433",
+        "name": "Majalaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332002",
+        "district_id": "320433",
+        "name": "Wangisagara",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332003",
+        "district_id": "320433",
+        "name": "Biru",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332004",
+        "district_id": "320433",
+        "name": "Padamulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332005",
+        "district_id": "320433",
+        "name": "Bojong",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332006",
+        "district_id": "320433",
+        "name": "Majasetra",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332007",
+        "district_id": "320433",
+        "name": "Majakerta",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332008",
+        "district_id": "320433",
+        "name": "Sukamaju",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332009",
+        "district_id": "320433",
+        "name": "Padaulun",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332010",
+        "district_id": "320433",
+        "name": "Neglasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204332011",
+        "district_id": "320433",
+        "name": "Sukamukti",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204342001",
+        "district_id": "320434",
+        "name": "Rancakasumba",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204342002",
+        "district_id": "320434",
+        "name": "Solokanjeruk (Solokan Jeruk)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204342003",
+        "district_id": "320434",
+        "name": "Cibodas",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204342004",
+        "district_id": "320434",
+        "name": "Panyadap",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204342005",
+        "district_id": "320434",
+        "name": "Bojongemas",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204342006",
+        "district_id": "320434",
+        "name": "Padamukti",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204342007",
+        "district_id": "320434",
+        "name": "Langensari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352001",
+        "district_id": "320435",
+        "name": "Cigentur",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352002",
+        "district_id": "320435",
+        "name": "Cipedes",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352003",
+        "district_id": "320435",
+        "name": "Loa",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352004",
+        "district_id": "320435",
+        "name": "Cijagra",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352005",
+        "district_id": "320435",
+        "name": "Cipaku",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352006",
+        "district_id": "320435",
+        "name": "Sindangsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352007",
+        "district_id": "320435",
+        "name": "Drawati",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352008",
+        "district_id": "320435",
+        "name": "Sukamanah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352009",
+        "district_id": "320435",
+        "name": "Sukamantri",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352010",
+        "district_id": "320435",
+        "name": "Karangtunggal",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352011",
+        "district_id": "320435",
+        "name": "Mekarpawitan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204352012",
+        "district_id": "320435",
+        "name": "Tangsimekar",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362001",
+        "district_id": "320436",
+        "name": "Ibun",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362002",
+        "district_id": "320436",
+        "name": "Laksana",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362003",
+        "district_id": "320436",
+        "name": "Dukuh",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362004",
+        "district_id": "320436",
+        "name": "Talun",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362005",
+        "district_id": "320436",
+        "name": "Pangguh",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362006",
+        "district_id": "320436",
+        "name": "Lampegan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362007",
+        "district_id": "320436",
+        "name": "Neglasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362008",
+        "district_id": "320436",
+        "name": "Mekarwangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362009",
+        "district_id": "320436",
+        "name": "Sudi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362010",
+        "district_id": "320436",
+        "name": "Tangulun (Tanggulun)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362011",
+        "district_id": "320436",
+        "name": "Cibeet",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204362012",
+        "district_id": "320436",
+        "name": "Karyalaksana",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372001",
+        "district_id": "320437",
+        "name": "Soreang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372002",
+        "district_id": "320437",
+        "name": "Sadu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372004",
+        "district_id": "320437",
+        "name": "Panyirapan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372010",
+        "district_id": "320437",
+        "name": "Sukajadi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372011",
+        "district_id": "320437",
+        "name": "Pamekaran",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372017",
+        "district_id": "320437",
+        "name": "Karamatmulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372018",
+        "district_id": "320437",
+        "name": "Sukanagara",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372019",
+        "district_id": "320437",
+        "name": "Cingcin",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372020",
+        "district_id": "320437",
+        "name": "Parungserab",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204372021",
+        "district_id": "320437",
+        "name": "Sekarwangi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382001",
+        "district_id": "320438",
+        "name": "Pasirjambu",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382002",
+        "district_id": "320438",
+        "name": "Cibodas",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382003",
+        "district_id": "320438",
+        "name": "Cikoneng",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382004",
+        "district_id": "320438",
+        "name": "Cukanggenteng",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382005",
+        "district_id": "320438",
+        "name": "Cisondari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382006",
+        "district_id": "320438",
+        "name": "Margamulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382007",
+        "district_id": "320438",
+        "name": "Mekarsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382008",
+        "district_id": "320438",
+        "name": "Mekarmaju",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382009",
+        "district_id": "320438",
+        "name": "Sugihmukti",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204382010",
+        "district_id": "320438",
+        "name": "Tenjolaya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204392001",
+        "district_id": "320439",
+        "name": "Lebakmuncang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204392002",
+        "district_id": "320439",
+        "name": "Ciwidey",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204392003",
+        "district_id": "320439",
+        "name": "Nengkelan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204392004",
+        "district_id": "320439",
+        "name": "Panundaan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204392005",
+        "district_id": "320439",
+        "name": "Panyocokan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204392006",
+        "district_id": "320439",
+        "name": "Rawabogo",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204392007",
+        "district_id": "320439",
+        "name": "Sukawening",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204402001",
+        "district_id": "320440",
+        "name": "Patengan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204402002",
+        "district_id": "320440",
+        "name": "Sukaresmi",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204402003",
+        "district_id": "320440",
+        "name": "Indragiri",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204402004",
+        "district_id": "320440",
+        "name": "Cipelah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204402005",
+        "district_id": "320440",
+        "name": "Alamendah",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204442001",
+        "district_id": "320444",
+        "name": "Cangkuang",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204442002",
+        "district_id": "320444",
+        "name": "Ciluncat",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204442003",
+        "district_id": "320444",
+        "name": "Nagrak",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204442004",
+        "district_id": "320444",
+        "name": "Bandasari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204442005",
+        "district_id": "320444",
+        "name": "Pananjung",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204442006",
+        "district_id": "320444",
+        "name": "Jatisari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204442007",
+        "district_id": "320444",
+        "name": "Tanjungsari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462001",
+        "district_id": "320446",
+        "name": "Jelegong",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462002",
+        "district_id": "320446",
+        "name": "Jatisari",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462003",
+        "district_id": "320446",
+        "name": "Pameuntasan",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462004",
+        "district_id": "320446",
+        "name": "Kopo",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462005",
+        "district_id": "320446",
+        "name": "Cibodas",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462006",
+        "district_id": "320446",
+        "name": "Kutawaringin",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462007",
+        "district_id": "320446",
+        "name": "Sukamulya",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462008",
+        "district_id": "320446",
+        "name": "Padasuka",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462009",
+        "district_id": "320446",
+        "name": "Buninagara",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462010",
+        "district_id": "320446",
+        "name": "Gajah Mekar (Gajahmekar)",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
+    },
+    {
+        "id": "3204462011",
+        "district_id": "320446",
+        "name": "Cilame",
+        "created_at": "2025-12-19 21:15:13",
+        "updated_at": "2025-12-19 21:15:13"
     }
 ]
