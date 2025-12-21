@@ -15,4 +15,14 @@ class School extends Model
         'district_id',
         'village_id'
     ];
+
+    public function district()
+    {
+        return $this->belongsTo(District::class);
+    }
+
+    public function village()
+    {
+        return $this->belongsTo(Village::class);
+    }
 }

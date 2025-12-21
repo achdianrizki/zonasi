@@ -10,4 +10,9 @@ class District extends Model
         'id',
         'name'
     ];
+
+    public function villages()
+    {
+        return $this->hasMany(Village::class);
+    }
 }

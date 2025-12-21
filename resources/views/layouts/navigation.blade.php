@@ -17,15 +17,15 @@
                     </x-nav-link>
                 </div>
                 <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
-                    <x-nav-link :href="route('admin.schools.api')" :active="request()->routeIs('admin.schools.api')">
+                    <x-nav-link :href="route('schools')" :active="request()->routeIs('schools')">
                         {{ __('List Sekolah') }}
                     </x-nav-link>
                 </div>
-                <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
-                    <x-nav-link :href="route('admin.regency.api')" :active="request()->routeIs('admin.regency.api')">
+                {{-- <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
+                    <x-nav-link :href="route('regency')" :active="request()->routeIs('regency')">
                         {{ __('List Kecamatan') }}
                     </x-nav-link>
-                </div>
+                </div> --}}
             </div>
 
             <!-- Settings Dropdown -->

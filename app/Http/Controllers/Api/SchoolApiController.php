@@ -3,73 +3,115 @@
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
+use App\Models\School;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Http\Request;
+use Illuminate\Validation\Rule;
 
 class SchoolApiController extends Controller
 {
     public function index()
     {
-        $districtCodes = [
-            '320416',
-            '320432',
-            '320413',
-            '320408',
-            '320444',
-            '320425',
-            '320427',
-            '320407',
-            '320405',
-            '320417',
-            '320406',
-            '320429',
-            '320439',
-            '320412',
-            '320436',
-            '320411',
-            '320431',
-            '320446',
-            '320433',
-            '320410',
-            '320409',
-            '320426',
-            '320430',
-            '320414',
-            '320415',
-            '320435',
-            '320438',
-            '320440',
-            '320428',
-            '320434',
-            '320437',
-        ];
+        $schools = School::with('district', 'village')
+            ->get()
+            ->map(function ($s) {
+                return [
+                    'id'            => $s->id,
+                    'name'          => $s->name,
+                    'npsn'          => $s->npsn,
+                    'address'       => $s->address,
+                    'district_name' => $s->district->name ?? '-',
+                    'village_name'  => $s->village->name ?? '-',
+                    'latitude'      => $s->latitude,
+                    'longitude'     => $s->longitude,
+                ];
+            });
 
-        $allSchools = collect();
+        return response()->json(['data' => $schools]);
+    }
 
-        foreach ($districtCodes as $districtCode) {
-            $response = Http::withOptions(['verify' => false])
-                ->withHeaders([
-                    'x-api-co-id' => env('API_CO_ID_KEY'),
-                ])->get('https://use.api.co.id/regional/indonesia/schools', [
-                    'district_code' => $districtCode,
-                    'grade'         => 'SMA',
-                    'status'        => 'N',
-                    'page'          => 1,
-                    'size'          => 100,
-                ]);
+    public function show($id)
+    {
+        $school = School::with('district', 'village')->find($id);
 
-            if ($response->successful()) {
-                $schools = collect($response->json('data') ?? []);
-                $allSchools = $allSchools->merge($schools);
-            }
+        if (! $school) {
+            return response()->json([
+                'message' => 'Sekolah tidak ditemukan'
+            ], 404);
         }
 
-        $schools = $allSchools
-            ->unique('npsn', '320415') // cegah duplikasi
-            ->sortBy('name')
-            ->values()
-            ->all();
+        return response()->json([
+            'data' => $school
+        ]);
+    }
 
-        return view('admin.schools.index', compact('schools'));
+    public function store(Request $request)
+    {
+        $validated = $request->validate([
+            'name'        => 'required|string|max:255',
+            'npsn'        => 'required|string|max:20|unique:schools,npsn',
+            'address'     => 'nullable|string',
+            'district_id' => 'required|exists:districts,id',
+            'village_id'  => 'required|exists:villages,id',
+            'latitude'    => 'nullable|numeric|between:-90,90',
+            'longitude'   => 'nullable|numeric|between:-180,180',
+        ]);
+
+        $school = School::create($validated);
+
+        return response()->json([
+            'message' => 'Sekolah berhasil ditambahkan',
+            'data'    => $school
+        ], 201);
+    }
+
+    public function update(Request $request, $id)
+    {
+        $school = School::find($id);
+
+        if (! $school) {
+            return response()->json([
+                'message' => 'Sekolah tidak ditemukan'
+            ], 404);
+        }
+
+        $validated = $request->validate([
+            'name'        => 'required|string|max:255',
+            'npsn'        => [
+                'required',
+                'string',
+                'max:20',
+                Rule::unique('schools', 'npsn')->ignore($school->id),
+            ],
+            'address'     => 'nullable|string',
+            'district_id' => 'required|exists:districts,id',
+            'village_id'  => 'required|exists:villages,id',
+            'latitude'    => 'nullable|numeric|between:-90,90',
+            'longitude'   => 'nullable|numeric|between:-180,180',
+        ]);
+
+        $school->update($validated);
+
+        return response()->json([
+            'message' => 'Sekolah berhasil diperbarui',
+            'data'    => $school
+        ]);
+    }
+
+    public function destroy($id)
+    {
+        $school = School::find($id);
+
+        if (! $school) {
+            return response()->json([
+                'message' => 'Sekolah tidak ditemukan'
+            ], 404);
+        }
+
+        $school->delete();
+
+        return response()->json([
+            'message' => 'Sekolah berhasil dihapus'
+        ]);
     }
 }

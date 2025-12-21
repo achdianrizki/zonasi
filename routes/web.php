@@ -4,6 +4,7 @@ use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\SchoolApiController;
 use App\Http\Controllers\Api\RegencyApiConroller;
+use App\Http\Controllers\SchoolController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -19,11 +20,9 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-Route::middleware(['auth'])->prefix('admin')->group(function () {
-    Route::get('/schools-api', [SchoolApiController::class, 'index'])
-        ->name('admin.schools.api');
-    Route::get('/regency-api', [RegencyApiConroller::class, 'index'])
-        ->name('admin.regency.api');
+Route::middleware(['auth'])->group(function () {
+    Route::get('/schools', [SchoolController::class, 'index'])
+        ->name('schools');
 });
 
 require __DIR__ . '/auth.php';
