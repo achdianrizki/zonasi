@@ -13,6 +13,7 @@
     <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="{{ asset('css/select2.min.css') }}">
     <link rel="stylesheet" href="{{ asset('Datatables/datatables.min.css') }}">
+    <link rel="stylesheet" href="/css/leaflet.css">
 
     <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.1.0/css/all.css" />
     <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v7.1.0/css/sharp-solid.css" />
@@ -44,6 +45,7 @@
         </main>
     </div>
 
+    <script src="/js/leaflet/leaflet.js"></script>
     <script src="{{ asset('js/jquery.js') }}"></script>
     <script src="{{ asset('js/select2.full.min.js') }}"></script>
     <script src="{{ asset('Datatables/datatables.min.js') }}"></script>

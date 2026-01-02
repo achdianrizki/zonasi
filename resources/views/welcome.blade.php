@@ -71,6 +71,12 @@
 
         <div class="flex-1 overflow-y-auto p-4 space-y-4">
 
+            <div class="mb-3">
+                <input type="text" id="searchSchool" placeholder="🔍 Cari sekolah..."
+                    class="w-full border rounded px-3 py-2 text-sm focus:outline-none focus:ring">
+            </div>
+
+
             <div id="sidebarContent" class="text-sm text-gray-700">
                 <em>Belum ada sekolah dipilih</em>
             </div>
@@ -214,6 +220,45 @@
             $('#btnSetManual').on('click', () => {
                 hasZoomedToUser = false;
                 enableManualLocation();
+            });
+
+            $('#searchSchool').on('input', function() {
+                const keyword = $(this).val().toLowerCase();
+
+                if (keyword.length < 2) {
+                    $('#sidebarContent').html;
+                    return;
+                }
+
+                const results = schoolsData.filter(s =>
+                    s.name.toLowerCase().includes(keyword)
+                );
+
+                if (results.length === 0) {
+                    $('#sidebarContent').html('<em>Sekolah tidak ditemukan</em>');
+                    return;
+                }
+
+                let html = `<h3 class="text-base font-semibold mb-3">
+        🔍 Hasil Pencarian
+    </h3><div class="space-y-3">`;
+
+                results.forEach(s => {
+                    html += `
+            <div
+                class="p-3 border rounded-lg cursor-pointer hover:bg-gray-50"
+                onclick="focusSchool(${s.lat}, ${s.lng})"
+            >
+                <div class="font-medium">${s.name}</div>
+                <div class="text-xs text-gray-600">${s.address ?? '-'}</div>
+            </div>
+        `;
+                });
+
+                html += `</div>`;
+
+                $('#sidebarContent').html(html);
+                $('#sidebar').removeClass('translate-x-full');
             });
 
 
@@ -529,9 +574,9 @@
                 <div class="font-medium">${s.name}</div>
                 <div class="text-xs text-gray-600">${s.address ?? '-'}</div>
                 ${s.distance ? `
-                                                <div class="text-xs text-blue-600 mt-1">
-                                                    📏 ${s.distance.toFixed(2)} km
-                                                </div>` : ''}
+                                                                <div class="text-xs text-blue-600 mt-1">
+                                                                    📏 ${s.distance.toFixed(2)} km
+                                                                </div>` : ''}
             </div>
         `;
             });
@@ -572,6 +617,28 @@
             }).addTo(map);
 
             map.flyTo([lat, lng], 13, {
+                animate: true,
+                duration: 1.2
+            });
+        }
+
+        function focusSchool(lat, lng) {
+            selectedSchoolLatLng = [lat, lng];
+            $('#searchSchool').val('');
+            
+            const school = schoolsData.find(
+                s => s.lat == lat && s.lng == lng
+            );
+
+            if (school) {
+                showSchoolDetail({
+                    ...school,
+                    latitude: lat,
+                    longitude: lng
+                });
+            }
+
+            map.flyTo([lat, lng], 14, {
                 animate: true,
                 duration: 1.2
             });
