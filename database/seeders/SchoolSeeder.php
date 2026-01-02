@@ -24,8 +24,8 @@ class SchoolSeeder extends Seeder
                 'address' => $state->address,
                 'latitude' => $state->latitude,
                 'longitude' => $state->longitude,
-                'district_id' => 1,
-                'village_id' => 1
+                'district_id' => $state->district_id,
+                'village_id' => $state->village_id
             ]);
         }
     }

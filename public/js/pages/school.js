@@ -1,9 +1,5 @@
 $(document).ready(function () {
-
-    // INIT SELECT2 GLOBAL
     initDistrictVillageSelect('#district_id', '#village_id');
-
-    // DATATABLE
     const table = $('#tableSchool').DataTable({
         processing: true,
         serverSide: false,
@@ -12,31 +8,31 @@ $(document).ready(function () {
         saveState: true,
         ajax: '/api/v1/schools',
         columns: [{
-                data: null,
-                render: (d, t, r, m) => m.row + 1
-            },
-            {
-                data: 'name'
-            },
-            {
-                data: 'npsn'
-            },
-            {
-                data: 'address'
-            },
-            {
-                data: 'district_name'
-            },
-            {
-                data: 'village_name'
-            },
-            {
-                data: null,
-                render: data => `
-                    <button class="btnEdit" data-id="${data.id}">Edit</button>
-                    <button class="btnDelete" data-id="${data.id}">Hapus</button>
+            data: null,
+            render: (d, t, r, m) => m.row + 1
+        },
+        {
+            data: 'name'
+        },
+        {
+            data: 'npsn'
+        },
+        {
+            data: 'address'
+        },
+        {
+            data: 'district_name'
+        },
+        {
+            data: 'village_name'
+        },
+        {
+            data: null,
+            render: data => `
+                    <button class="btnEdit bg-yellow-400s" data-id="${data.id}"><i class="fa-sharp fa-solid fa-pencil"></i></button>
+                    <button class="btnDelete" data-id="${data.id}"><i class="fa-sharp fa-solid fa-trash"></i></button>
                 `
-            }
+        }
         ]
     });
 

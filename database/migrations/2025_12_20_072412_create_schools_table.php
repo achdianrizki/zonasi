@@ -20,6 +20,7 @@ return new class extends Migration
             $table->decimal('longitude', 11, 8)->nullable();;
             $table->foreignId('district_id');
             $table->foreignId('village_id');
+            $table->softDeletes();
             $table->timestamps();
         });
     }
